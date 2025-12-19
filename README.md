@@ -1,16 +1,24 @@
-## Hi there 👋
+# Project Index
 
-<!--
-**erickgonzalesdev/erickgonzalesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tier 1
 
-Here are some ideas to get you started:
+- Small business sites framework / suite
+  - (subprojects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Dev Workstation
+  - (subprojects)
+
+- Web framework / suite
+  - (subprojects)
+
+- Business software framework / suite
+  - (subprojects)
+
+## Tier 2
+
+- Magnum Opus
+  - (subprojects)
+
+## Tier 3
+
+- Misc
