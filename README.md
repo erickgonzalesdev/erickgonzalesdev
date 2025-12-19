@@ -1,6 +1,6 @@
 # Project Index
 
-### Tier 1
+#### Tier 1
 - Small business sites framework / suite
   - Subprojects
 - Dev Workstation
@@ -9,8 +9,8 @@
   - Subprojects
 - Business software framework / suite
   - Subprojects
-### Tier 2
+#### Tier 2
 - Magnum Opus
   - Subprojects
-### Tier 3
+#### Tier 3
 - Misc
