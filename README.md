@@ -9,10 +9,8 @@
   - Subprojects
 - Business software framework / suite
   - Subprojects
-
 ### Tier 2
 - Magnum Opus
   - Subprojects
-
 ### Tier 3
 - Misc
